@@ -2,8 +2,6 @@
 "companyName": "DefaultCompany",
 "productName": "ugoman_Project_01",
 "dataUrl": "webgl_test.data.unityweb",
-"wasmCodeUrl": "webgl_test.wasm.code.unityweb",
-"wasmFrameworkUrl": "webgl_test.wasm.framework.unityweb",
 "asmCodeUrl": "webgl_test.asm.code.unityweb",
 "asmMemoryUrl": "webgl_test.asm.memory.unityweb",
 "asmFrameworkUrl": "webgl_test.asm.framework.unityweb",
